@@ -3,9 +3,7 @@ repo to learn github
 local git
 remote colaborate with others and control verson github
 
-
 social media of coding
-
 
 install git in my own machine
 create a local repository on git
