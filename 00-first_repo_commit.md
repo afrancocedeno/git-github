@@ -52,7 +52,7 @@ Date:   Tue Aug 17 13:12:16 2021 -0500
 ```bash
 git diff
 ```
-#### usefull to compare staging with current working directory
+#### usefull to compare staged with current working directory
 
 ```bash
 $ git diff b104ea9169ae770c1a2d75d189acc8aaf0c439cc cef2ea599779c4ab2d66c09946447dfdc2e3dc16
