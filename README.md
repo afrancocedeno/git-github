@@ -1,3 +1,6 @@
+#### vocabulary
+* staged: data stored in cache waiting to be commited after git add.
+
 repo to learn github
 
 local git
