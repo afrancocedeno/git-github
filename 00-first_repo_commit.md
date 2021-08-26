@@ -28,6 +28,7 @@ file:/home/afrancocedeno/.gitconfig     user.email=afrancocedeno@gmail.com
 file:/home/afrancocedeno/.gitconfig     user.name=Alejandro Franco Cedeño
 :
 ```
+git add makes git track the file waiting for a commit
 
 ```bash
 git add file_name
