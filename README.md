@@ -1,5 +1,7 @@
 #### vocabulary
 * staged: data stored in cache waiting to be commited after git add.
+* git:
+* github:
 
 repo to learn github
 
