@@ -46,3 +46,8 @@ index dba62d9..1767b0b 100644
 @@ -3,10 +3,8 @@ repo to learn github
 -remove/add new line
 ```
+
+--stat to see changes with specifications
+```bash
+git log --stat
+```
