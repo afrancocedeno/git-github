@@ -38,3 +38,9 @@ git show
 git log file.txt
 git push
 git pull
+
+common git branches
+* hotfix
+* dev
+* test
+* main
