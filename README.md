@@ -1,7 +1,8 @@
 #### vocabulary
 * staged: data stored in cache waiting to be commited after git add.
 * git: local development environment (Working Dir + Staged + Local Repo)
-* github | gitlab | bitbucket: a remote server with the same files
+* github | gitlab | bitbucket: a remote SCM hosting server with the same files
+* SCM:  Software Configuration Management
 * HEAD: a reference to the previous commit
 
 repo to learn github
