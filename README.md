@@ -3,6 +3,7 @@
 * git: local development environment (Working Dir + Staged + Local Repo)
 * github | gitlab | bitbucket: a remote server with the same files
 * HEAD: a reference to the previous commit
+* git-hash: 5dedadf
 
 repo to learn github
 
