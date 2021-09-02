@@ -48,6 +48,9 @@ common git tags names
 * version 0
 * v 0.0
 
+## Binary files in github
+changes does not occur inmediately
+
 ---------> Authors
 
 [@afroceno](https://github.com/afroceno) wrote this line

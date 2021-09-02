@@ -14,6 +14,3 @@ $ git merge footer
 $ git pull origin main
 $ git push origin main
 ```
-
-como mantener mi rama fork conectada con la del autor?
-con remote upstream and origin handle
